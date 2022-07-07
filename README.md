@@ -1,9 +1,5 @@
-### Hi everybody! 🤞
 
-
-- 🌱 I’m studying HTML, CSS and JavaScript (:
-- 😄 Pronouns: she/her
-
+## Hi everybody! I'm Marina and I'm here for being an especially curious person. 🤞
 <div align="center">
   <a href="https://github.com/marisaraivms">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=marisaraivms&show_icons=true&theme=cobalt&border_radius=10&include_all_commits=true&count_private=true"/>

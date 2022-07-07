@@ -6,8 +6,8 @@ Hi everybody! I'm Marina and I'm here for being an especially curious person. ğŸ
 
 <div align="center">
   <a href="https://github.com/marisaraivms">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=marisaraivms&show_icons=true&theme=cobalt&border_radius=10&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisaraivms&layout=compact&border_radius=10&langs_count=7&theme=cobalt"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marisaraivms&show_icons=true&theme=cobalt&border_radius=10&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisaraivms&layout=compact&border_radius=10&langs_count=7&theme=cobalt"/>
 </div>
   
   <div style="display: inline_block"><br>

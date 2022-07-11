@@ -24,7 +24,7 @@ Hi everybody! I'm Marina and I'm here for being an especially curious person. ðŸ
 
   <a href="https://instagram.com/bymarinasaraiva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marinasaraivah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/marinasaraivah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marinasaraivah/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
  ![Snake animation](https://github.com/marisaraivms/marisaraivms/blob/output/github-contribution-grid-snake.svg)
     

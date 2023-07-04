@@ -15,7 +15,7 @@ Hi everybody! I'm Marina and I'm here for being an especially curious person. ğŸ
   <img align="center" alt="Mari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Mari-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/994618594728099931/994621723712434216/2186844A-160B-46A0-85CC-E373A5C3382F.jpg">
+  <img align="right" alt="Mari-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/994618594728099931/1125596419177336843/unnamed.jpg">
 </div>
   
   ##
